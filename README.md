@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @jRy
+**👋 Hi, I’m @jRy**
 ![](https://komarev.com/ghpvc/?username=jhonniel&color=blueviolet)
 - 👀 I’m interested in new tech
 - 🌱 I’m currently learning anything that I don't know
