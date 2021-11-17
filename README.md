@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=jhonniel&color=blueviolet)
 - 👋 Hi, I’m @jRy
 - 👀 I’m interested in new tech
 - 🌱 I’m currently learning anything that I don't know
