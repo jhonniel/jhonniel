@@ -8,7 +8,6 @@
 
 <a href="https://github.com/jhonniel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonniel&layout=compact&theme=cobalt&hide_border=true" />
-B34" />
 </a>
 
 <a href="https://github.com/jhonniel">
