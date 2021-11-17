@@ -4,7 +4,7 @@
 - 📫 How to reach me? you can visit my website devjry.web.app
 - 👾 join on my discord server https://discord.gg/MM4Phpn4ja
 
-**Programming languages**
+##Programming languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
