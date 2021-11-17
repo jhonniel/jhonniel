@@ -1,9 +1,8 @@
 **👋 Hi, I’m @jRy**
 
 ![](https://komarev.com/ghpvc/?username=jhonniel&color=blueviolet)
-- 👀 I’m interested in new tech
-- 🌱 I’m currently learning anything that I don't know
-- 📫 How to reach me? you can visit my website devjry.web.app
+- 👀 I’m interested in new tech.
+- 🌱 I’m currently learning anything that I don't know.
 
 
 <a href="https://discord.gg/MM4Phpn4ja"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
