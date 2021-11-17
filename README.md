@@ -4,6 +4,10 @@
 - 📫 How to reach me? you can visit my website devjry.web.app
 - 👾 join on my discord server https://discord.gg/MM4Phpn4ja
 
+<a href="https://github.com/jhonniel">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jhonniel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
+
 
 <details>
 <summary>Most used</summary>
