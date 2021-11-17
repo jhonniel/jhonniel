@@ -4,6 +4,9 @@
 - 📫 How to reach me? you can visit my website devjry.web.app
 - 👾 join on my discord server https://discord.gg/MM4Phpn4ja
 
+
+<details>
+<summary>Most used</summary>
 ## Programming languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,5 +49,5 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
+<details>
 
