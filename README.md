@@ -16,7 +16,7 @@
 
 
 <details>
-<summary>Most used</summary>
+<summary>See more</summary>
   
 ## Programming languages
 <p>
